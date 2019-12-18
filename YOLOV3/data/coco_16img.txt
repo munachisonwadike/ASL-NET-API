@@ -1,0 +1,16 @@
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000009.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000025.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000030.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000034.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000036.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000049.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000061.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000064.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000071.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000072.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000077.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000078.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000081.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000086.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000089.jpg
+/home/mmvc/mmvc-ad-teachnas/CV_2019_Fall/msn307/YOLOV3/yolov3/data/images/train2014/COCO_train2014_000000000092.jpg
