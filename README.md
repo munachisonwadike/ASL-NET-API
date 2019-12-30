@@ -4,4 +4,4 @@ ASL Net API. A machine learning powered API that inteprets American Sign Languag
 We made a custome dataset of 500 ASL Alphabet and trained a YOLOV3 model to be able to detect sign language using our integrated
 mobile application.
 
-A detailed summary on our work can be found in the attached white-paper (.pdf) in this repository.
+*A detailed summary on our work can be found in the attached white-paper (.pdf) in this repository.*
